@@ -78,14 +78,10 @@ Este projeto é de uso educacional. Sem fins comerciais. Licenciado sob a [MIT L
 
 ## ✍️ Autor
 
-Modelo desenhado por **[Seu Nome]** no Draw.io
+Modelo desenhado por **Leandro** no Draw.io
 
 ---
 
-## 📎 Visualização do Diagrama
 
-> Para visualizar o diagrama `.drawio`, utilize:
-- [draw.io](https://app.diagrams.net/)
-- ou importe o arquivo no VSCode com a extensão "Draw.io Integration"
 
 ---
